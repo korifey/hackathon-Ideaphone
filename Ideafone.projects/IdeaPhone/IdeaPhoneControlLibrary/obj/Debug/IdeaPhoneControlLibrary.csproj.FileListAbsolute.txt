@@ -1,0 +1,16 @@
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlLibrary\bin\Debug\IdeaPhoneControlLibrary.dll
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlLibrary\bin\Debug\IdeaPhoneControlLibrary.pdb
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlLibrary\bin\Debug\log4net.dll
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlLibrary\bin\Debug\log4net.xml
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlLibrary\obj\Debug\IdeaPhoneControlLibrary.dll
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlLibrary\obj\Debug\IdeaPhoneControlLibrary.pdb
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlLibrary\obj\Debug\IdeaPhoneControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlLibrary\bin\Debug\config.properties
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlLibrary\bin\Debug\config.properties
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlLibrary\bin\Debug\IdeaPhoneControlLibrary.dll
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlLibrary\bin\Debug\IdeaPhoneControlLibrary.pdb
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlLibrary\bin\Debug\log4net.dll
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlLibrary\bin\Debug\log4net.xml
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlLibrary\obj\Debug\IdeaPhoneControlLibrary.csprojResolveAssemblyReference.cache
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlLibrary\obj\Debug\IdeaPhoneControlLibrary.dll
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlLibrary\obj\Debug\IdeaPhoneControlLibrary.pdb

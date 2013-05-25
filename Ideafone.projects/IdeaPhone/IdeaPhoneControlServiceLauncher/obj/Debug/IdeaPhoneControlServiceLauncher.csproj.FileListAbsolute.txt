@@ -1,0 +1,24 @@
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\IdeaPhoneControlServiceLauncher.exe.config
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\IdeaPhoneControlServiceLauncher.exe
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\IdeaPhoneControlServiceLauncher.pdb
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\IdeaPhoneControlLibrary.dll
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\log4net.dll
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\IdeaPhoneControlLibrary.pdb
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\log4net.xml
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\obj\Debug\IdeaPhoneControlServiceLauncher.csprojResolveAssemblyReference.cache
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\obj\Debug\IdeaPhoneControlServiceLauncher.exe
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\obj\Debug\IdeaPhoneControlServiceLauncher.pdb
+c:\users\duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\config.log4net
+C:\Users\Duke\documents\visual studio 2012\Projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\config.properties
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\IdeaPhoneControlServiceLauncher.exe.config
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\obj\Debug\IdeaPhoneControlServiceLauncher.exe
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\obj\Debug\IdeaPhoneControlServiceLauncher.pdb
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\config.properties
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\config.log4net
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\IdeaPhoneControlServiceLauncher.exe
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\IdeaPhoneControlServiceLauncher.pdb
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\IdeaPhoneControlLibrary.dll
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\log4net.dll
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\IdeaPhoneControlLibrary.pdb
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\bin\Debug\log4net.xml
+C:\Ideafone.projects\IdeaPhone\IdeaPhoneControlServiceLauncher\obj\Debug\IdeaPhoneControlServiceLauncher.csprojResolveAssemblyReference.cache

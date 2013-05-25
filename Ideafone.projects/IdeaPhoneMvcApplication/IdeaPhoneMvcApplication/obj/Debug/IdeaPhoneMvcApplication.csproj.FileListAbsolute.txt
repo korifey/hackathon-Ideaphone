@@ -1,0 +1,98 @@
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\IdeaPhoneMvcApplication.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\IdeaPhoneMvcApplication.pdb
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Antlr3.Runtime.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.AspNet.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.Core.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OAuth.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OpenId.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\EntityFramework.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Newtonsoft.Json.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Net.Http.Formatting.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Helpers.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Http.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Http.WebHost.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Mvc.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Optimization.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Razor.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.Deployment.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.Razor.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\WebGrease.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\WebMatrix.Data.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\WebMatrix.WebData.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\EntityFramework.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Newtonsoft.Json.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Net.Http.Formatting.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Helpers.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Http.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Http.WebHost.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Mvc.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Razor.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.Deployment.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.Razor.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\WebMatrix.Data.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\WebMatrix.WebData.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.AspNet.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.Core.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OAuth.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OpenId.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\obj\Debug\IdeaPhoneMvcApplication.csprojResolveAssemblyReference.cache
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\obj\Debug\IdeaPhoneMvcApplication.dll
+c:\users\ivan.serduk\documents\visual studio 2012\Projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\obj\Debug\IdeaPhoneMvcApplication.pdb
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\IdeaPhoneMvcApplication.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\IdeaPhoneMvcApplication.pdb
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Antlr3.Runtime.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.AspNet.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.Core.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OAuth.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OpenId.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\EntityFramework.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Newtonsoft.Json.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Net.Http.Formatting.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Helpers.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Http.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Http.WebHost.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Mvc.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Optimization.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Razor.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.Razor.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\WebGrease.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\WebMatrix.Data.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\WebMatrix.WebData.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\EntityFramework.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Newtonsoft.Json.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Net.Http.Formatting.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Helpers.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Http.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Http.WebHost.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Mvc.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.Razor.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\System.Web.WebPages.Razor.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\WebMatrix.Data.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\WebMatrix.WebData.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.AspNet.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.Core.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OAuth.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OpenId.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\obj\Debug\IdeaPhoneMvcApplication.csprojResolveAssemblyReference.cache
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\obj\Debug\IdeaPhoneMvcApplication.dll
+C:\Ideafone.projects\IdeaPhoneMvcApplication\IdeaPhoneMvcApplication\obj\Debug\IdeaPhoneMvcApplication.pdb
