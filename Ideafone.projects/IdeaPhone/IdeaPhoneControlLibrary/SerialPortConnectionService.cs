@@ -9,7 +9,7 @@ namespace IdeaPhoneControlLibrary
 {
   internal interface IDataConsumer
   {
-    void PutData(byte[] data, int length);
+    void PutDataAsyncWithTimerDelay(byte[] data, int length);
   }
 
   internal class SerialPortConnectionService : IDataConsumer
@@ -35,8 +35,10 @@ namespace IdeaPhoneControlLibrary
     {
       myTimer = new Timer(SendData, null, 0, myInterval);
     }
+    
+    
 
-    public void PutData(byte[] data, int length)
+    public void PutDataAsyncWithTimerDelay(byte[] data, int length)
     {
       lock (myDataMonitor)
       {
@@ -57,6 +59,8 @@ namespace IdeaPhoneControlLibrary
       }
     }
 
+    
+    
     private int FindNextMagicNumber(byte[] data, int length, int offset)
     {
       for (var i = offset; i < length; i++)
@@ -67,6 +71,32 @@ namespace IdeaPhoneControlLibrary
       return length;
     }
 
+
+
+    public void PlayNow(byte[] rawBytes)
+    {
+      logger.Debug($"Playing bytes: '[{string.Join(", ", rawBytes)}]'");
+      if (rawBytes.Length == 0)
+        return;
+
+      byte[] bytesToPlay;
+      if (rawBytes[rawBytes.Length - 1] == myMagicNumber)
+      {
+        bytesToPlay = rawBytes;
+      }
+      else
+      {
+        bytesToPlay = new byte[rawBytes.Length + 1];
+        Array.Copy(rawBytes, bytesToPlay, rawBytes.Length);
+        bytesToPlay[rawBytes.Length] = myMagicNumber;
+      }
+     
+      
+      mySerialPort.Write(bytesToPlay, 0, bytesToPlay.Length);
+      LogSentBytes(bytesToPlay);
+    }
+    
+    
     private void SendData(object state)
     {
       byte[] bytes;
@@ -81,10 +111,11 @@ namespace IdeaPhoneControlLibrary
       mySerialPort.Write(bytes, 0, bytes.Length);
       LogSentBytes(bytes);
     }
-
+  
+    
     private static void LogSentBytes(byte[] bytes)
     {
-      if (!logger.IsDebugEnabled) return;
+//      if (!logger.IsDebugEnabled) return;
       var sb = new StringBuilder("Send to serial port: ");
       foreach (var b in bytes)
       {

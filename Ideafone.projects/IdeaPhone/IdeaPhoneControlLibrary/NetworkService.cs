@@ -45,7 +45,7 @@ namespace IdeaPhoneControlLibrary
         k += length;
       }
       socket.Close();
-      myDataConsumer.PutData(receivedData, k);
+      myDataConsumer.PutDataAsyncWithTimerDelay(receivedData, k);
     }
   }
 }

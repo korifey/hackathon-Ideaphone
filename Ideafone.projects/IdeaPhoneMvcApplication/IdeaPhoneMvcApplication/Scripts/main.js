@@ -1,4 +1,4 @@
-var PIANO_KEYS = 28;
+var PIANO_KEYS = 27;
 
 $(document).ready(function() {
 
@@ -112,6 +112,17 @@ function stopRecording() {
   startTime = null;
 }
 
+function playIdeafoneOneKey(key) {
+    $.ajax({
+        type: 'GET',
+        url: "play",
+        data: { data: [[key]] },
+        success: function(response) {
+            alert(response);
+        }
+    });
+}
+
 function playIdeafone() {
   $.ajax({
     type: 'GET',
@@ -130,6 +141,8 @@ var chords = null;
 var currentChord = null;
 
 function recordKey(key) {
+  playIdeafoneOneKey(key);  
+    
   var currentTime = new Date();
   if (startTime == null)
     startTime = currentTime;

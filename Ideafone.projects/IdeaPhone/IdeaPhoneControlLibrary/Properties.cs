@@ -9,6 +9,7 @@ namespace IdeaPhoneControlLibrary
     private const string NETWORK_PORT_KEY = "NetworkPort";
     private const string INTERVAL_KEY = "IntervalInMs";
     private const string COM_PORT_KEY = "ComPort";
+    private const string PLAY_SAMPLE = "PlaySample";
 
     private IDictionary<string, string> myProperties;
 
@@ -16,6 +17,7 @@ namespace IdeaPhoneControlLibrary
     private int myNetworkPort = 11433;
     private long myInterval = 50;
     private string myComPort = null;
+    public bool PlaySample { get; private set; } = false;
 
     public void Load(string filename = "config.properties")
     {
@@ -23,6 +25,7 @@ namespace IdeaPhoneControlLibrary
       foreach (var row in File.ReadAllLines(filename))
       {
         if (row.StartsWith("//")) continue;
+        if (row.StartsWith("#")) continue;
         var parts = row.Split('=');
         myProperties.Add(parts[0], parts[1]);
       }
@@ -39,6 +42,9 @@ namespace IdeaPhoneControlLibrary
 
       if (myProperties.TryGetValue(COM_PORT_KEY, out s))
         myComPort = s;
+      
+      if (myProperties.TryGetValue(PLAY_SAMPLE, out s))
+        PlaySample = bool.Parse(s);
     }
 
     public byte MagicNumber

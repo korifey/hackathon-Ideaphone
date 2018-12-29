@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Threading;
 using IdeaPhoneControlLibrary;
 using log4net;
 using log4net.Config;
@@ -14,7 +13,7 @@ namespace IdeaPhoneControlServiceLauncher
     {
       XmlConfigurator.Configure(new System.IO.FileInfo("config.log4net"));
       logger.Debug("Start app");
-      IdeaPhoneService.Start();
+      IdeaPhoneService.Start(args);
       Console.ReadKey();
       /*while (true)
       {
